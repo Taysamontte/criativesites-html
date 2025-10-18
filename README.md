@@ -27,4 +27,7 @@ Com este projeto, aprendi a:
 **Thaysa Monteiro**  
 
 
-## 📂 Estrutura do Repositório
+## 🚀 Próximos Passos
+- Aprimorar o design com **CSS**;
+- Tornar o site interativo com **JavaScript**;
+- Publicar o site usando **GitHub Pages**.
